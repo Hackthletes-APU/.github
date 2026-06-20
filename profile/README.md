@@ -60,8 +60,6 @@ New to open source? You are in the right place.
 Pull requests are reviewed by [@Hackthletes-APU/maintainers](https://github.com/orgs/Hackthletes-APU/teams/maintainers).
 
 <a href="https://github.com/cindyyy11"><img src="https://github.com/cindyyy11.png" width="52" height="52" alt="@cindyyy11" /></a>
-<a href="https://github.com/JohnsonChin1009"><img src="https://github.com/JohnsonChin1009.png" width="52" height="52" alt="@JohnsonChin1009" /></a>
-<a href="https://github.com/raykon1221"><img src="https://github.com/raykon1221.png" width="52" height="52" alt="@raykon1221" /></a>
 
 See [MAINTAINERS.md](https://github.com/Hackthletes-APU/.github/blob/main/MAINTAINERS.md) for roles and how to join the team.
 
