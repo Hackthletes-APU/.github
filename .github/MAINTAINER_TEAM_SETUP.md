@@ -13,8 +13,6 @@ Follow these steps once as an **organisation owner** to activate `@Hackthletes-A
 4. Click **Create team**
 5. Add members (suggested initial list from [MAINTAINERS.md](../MAINTAINERS.md)):
    - `cindyyy11`
-   - `JohnsonChin1009`
-   - `raykon1221`
 6. Go to **Organisation settings → Member privileges → Base permissions** and confirm members can create repositories if needed
 7. For each project repository, optionally set:
    - **Settings → Collaborators and teams → Add team `maintainers`**
