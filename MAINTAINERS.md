@@ -15,8 +15,6 @@ This team is referenced in [`.github/CODEOWNERS`](.github/CODEOWNERS).
 | GitHub | Focus area |
 | --- | --- |
 | [@cindyyy11](https://github.com/cindyyy11) | Organisation defaults, community repos |
-| [@JohnsonChin1009](https://github.com/JohnsonChin1009) | [cron-apu-timetable](https://github.com/Hackthletes-APU/cron-apu-timetable) |
-| [@raykon1221](https://github.com/raykon1221) | [portfolio](https://github.com/Hackthletes-APU/portfolio) |
 
 > Org owners: add or remove members in **Organisation settings → Teams → maintainers**.
 
