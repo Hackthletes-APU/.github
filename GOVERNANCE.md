@@ -12,6 +12,8 @@ Responsible for project direction, roadmap, release planning, and final decision
 
 Responsible for reviewing pull requests, managing issues, checking quality, and guiding contributors.
 
+Maintainers belong to the GitHub team [@Hackthletes-APU/maintainers](https://github.com/orgs/Hackthletes-APU/teams/maintainers). See [MAINTAINERS.md](MAINTAINERS.md) for the current list and [setup guide](.github/MAINTAINER_TEAM_SETUP.md) for org owners.
+
 ### Contributors
 
 Anyone who contributes code, documentation, design, data, testing, or feedback.
@@ -52,6 +54,7 @@ We prioritise:
 
 ## Related documents
 
+- [Maintainers](MAINTAINERS.md)
 - [Contributing guide](CONTRIBUTING.md)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
 - [Security policy](SECURITY.md)

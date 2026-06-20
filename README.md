@@ -17,6 +17,8 @@ This is the special `.github` repository. GitHub applies these defaults to any r
 | [.github/ISSUE_TEMPLATE/](.github/ISSUE_TEMPLATE/) | Default issue forms for org repositories |
 | [.github/PULL_REQUEST_TEMPLATE.md](.github/PULL_REQUEST_TEMPLATE.md) | Default pull request checklist |
 | [.github/CODEOWNERS](.github/CODEOWNERS) | Default code review assignments |
+| [MAINTAINERS.md](MAINTAINERS.md) | Maintainer team and responsibilities |
+| [.github/MAINTAINER_TEAM_SETUP.md](.github/MAINTAINER_TEAM_SETUP.md) | How org owners create the GitHub team |
 
 ## Override behaviour
 

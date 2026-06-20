@@ -1,4 +1,5 @@
 # Default reviewers for organisation repositories.
-# Create the @Hackthletes-APU/maintainers team in org settings, or replace with individual usernames.
+# Team setup: .github/MAINTAINER_TEAM_SETUP.md
+# Member list: MAINTAINERS.md
 
 * @Hackthletes-APU/maintainers
